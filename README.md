@@ -33,7 +33,7 @@ Check out my [Portfolio](https://talha373.netlify.app) to see my work and more d
 
 | <a href="https://github.com/abutalha373/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abutalha373&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="abutalha373's GitHub stats" /></a> | <a href="https://github.com/abutalha373/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abutalha373&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
-| <a href="https://github.com/abutalha373/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abutalha373&layout=compact&theme=dark&hide_border=true" align="center" style="width: 100%"/></a> |  
+| <a href="https://github.com/abutalha373/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abutalha373&layout=compact&theme=dark&hide_border=true" align="center" style="width: 100%"/></a> |  |
   
 
 
