@@ -26,13 +26,12 @@ I’m continuously improving my skills in JavaScript and Laravel, and actively e
 ### 🔗 **Portfolio:**
 Check out my [Portfolio](https://talha373.netlify.app) to see my work and more details about my journey in web development!
 
-### 🤝 **Let's Connect:**
-###
+## 🤝 **Let's Connect:**
 <p align="center"> <a href="https://www.linkedin.com/in/abutalha373/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://www.fiverr.com/abutalha373" target="_blank"><img src="https://img.shields.io/badge/fiverr-1ac16f.svg?style=for-the-badge&logo=fiverr&logoColor=white"/></a></p>
 
 
 
-### 📊 **GitHub Stats:**
+## 📊 **GitHub Stats:**
 
 <table>
         <tr>
@@ -51,7 +50,7 @@ Check out my [Portfolio](https://talha373.netlify.app) to see my work and more d
             </td>
         </tr>
         <tr>
-            <td colspan="2">
+            <td colspan="2" style="display: flex; justify-content: center; align-items: center;">
                 <img src="https://komarev.com/ghpvc/?username=abutalha373&&style=flat-square" align="center" />
             </td>
         </tr>
