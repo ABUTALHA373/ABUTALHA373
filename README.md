@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+| <a href="https://github.com/abutalha373/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abutalha373&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="abutalha373's GitHub stats" /></a> | <a href="https://github.com/abutalha373/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abutalha373&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
 <!--
 **ABUTALHA373/ABUTALHA373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
