@@ -56,29 +56,3 @@ Check out my <a href="https://talha373.netlify.app" target="_blank">Portfolio</a
         </tr>
     </table>
 
-<!--
-| <a href="https://github.com/abutalha373/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abutalha373&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="abutalha373's GitHub stats" /></a> | <a href="https://github.com/abutalha373/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abutalha373&layout=compact&theme=dark&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-| <a href="https://github.com/abutalha373/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abutalha373&layout=compact&theme=dark&hide_border=true" align="center" style="width: 100%"/></a> |
-| ------------- |
-
-<img src="https://komarev.com/ghpvc/?username=abutalha373&&style=flat-square" align="center" />
-  
-
-
-
-
-**ABUTALHA373/ABUTALHA373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
