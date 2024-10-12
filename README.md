@@ -24,7 +24,12 @@ Feel free to explore my repositories to see projects ranging from portfolio webs
 I’m continuously improving my skills in JavaScript and Laravel, and actively exploring new technologies to broaden my capabilities. Check out my latest projects and contributions!
 
 ### 🔗 **Portfolio:**
-Check out my [Portfolio](https://talha373.netlify.com) to see my work and more details about my journey in web development!
+Check out my [Portfolio](https://talha373.netlify.app) to see my work and more details about my journey in web development!
+
+### 🤝 **Let's Connect:**
+## Let's Connect :handshake:
+<p align="center"> <a href="https://www.linkedin.com/in/abutalha373/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.fiverr.com/abutalha373" target="_blank"><img src="https://img.shields.io/badge/fiverr-1ac16f.svg?style=for-the-badge&logo=fiverr&logoColor=white"/></a></p>
 
 
 | <a href="https://github.com/abutalha373/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abutalha373&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="abutalha373's GitHub stats" /></a> | <a href="https://github.com/abutalha373/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abutalha373&layout=compact&theme=buefy&hide_border=true" /></a> |
