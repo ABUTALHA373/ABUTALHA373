@@ -1,4 +1,4 @@
-![github.com/abutalha373](https://raw.githubusercontent.com/abutalha373/abutalha373/main/bg.png )
+![github.com/abutalha373](https://raw.githubusercontent.com/abutalha373/abutalha373/main/62833220.png )
 
 
 👋 **Hello, I'm Abu Talha [/abutalha373]**  
