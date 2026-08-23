@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/abutalha373/">LinkedIn</a>
 </p>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -28,7 +28,7 @@ I enjoy building applications from the ground up — designing databases, implem
 
 I'm interested in writing clean, maintainable code and continuously improving how I design and build software.
 
----
+
 
 ## 🚀 What I Do
 
@@ -39,7 +39,7 @@ I'm interested in writing clean, maintainable code and continuously improving ho
 * **Application Architecture** — Organizing applications for maintainability, scalability, and long-term development
 * **Deployment & Infrastructure** — Working with Linux, Apache, DNS, SSL, Cloudflare, databases, and deployment workflows
 
----
+
 
 ## 🛠️ Technologies
 
@@ -71,7 +71,7 @@ I'm interested in writing clean, maintainable code and continuously improving ho
 </p>
 
 
----
+
 
 ## 🌱 Currently Learning
 
@@ -82,7 +82,7 @@ I'm interested in writing clean, maintainable code and continuously improving ho
 * Server deployment and infrastructure
 * CI/CD and automated deployments
 
----
+
 
 ## 🌐 Portfolio
 
@@ -92,7 +92,7 @@ I'm interested in writing clean, maintainable code and continuously improving ho
   </a>
 </p>
 
----
+
 
 ## 🤝 Let's Connect
 
@@ -104,7 +104,7 @@ I'm interested in writing clean, maintainable code and continuously improving ho
 
 ---
 
----
+
 
 <p align="center">
   <i>Building software, solving problems, and continuously learning.</i>
