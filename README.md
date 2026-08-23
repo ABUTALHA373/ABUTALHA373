@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abutalha373/abutalha373/main/6283322.png" alt="Abu Talha" width="100%">
+  <img src="https://raw.githubusercontent.com/abutalha373/abutalha373/main/4596434.png" alt="Abu Talha" width="100%">
 </p>
 
 <h1 align="center">👋 Hello, I'm Abu Talha</h1>
